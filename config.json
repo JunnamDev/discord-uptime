@@ -1,7 +1,7 @@
 {
-  "token": "",
-  "notification_channel": 1234,
-  "role_to_mention": 1234,
+  "token": "Njc4NTM5NjY4MjMyNjAxNjAw.XoS5uA.UUc6M6cZwu5p1Y7l47fIn4TsC6E",
+  "notification_channel": 690231649124089946,
+  "role_to_mention": 0,
   "secs_between_ping": 30,
-  "always_notify": false
+  "always_notify": true
 }
